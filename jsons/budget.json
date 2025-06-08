@@ -25,8 +25,18 @@
       "income": 8000,
       "expenses": 3000,
       "entries": [
-        { "item": "पुस्तक वितरण", "amount": 1500 },
+        { "item": "पुस्तक", "amount": 1500 },
         { "item": "स्वास्थ्य शिविर", "amount": 1500 }
+      ]
+    }
+  ],
+  "deesa": [
+    {
+      "year": "2023-24",
+      "income": 8000,
+      "expenses": 3000,
+      "entries": [
+        { "item": "पुस्तक वितरण", "amount": 1500 }
       ]
     }
   ]
