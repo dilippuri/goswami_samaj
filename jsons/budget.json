@@ -1,10 +1,24 @@
-[
-  {
-    "year": "2023-24",
-    "income": 0,
-    "expenses": 0,
-    "entries": [
-      { "item": "सेवा कार्य", "amount": 0 }
-    ]
-  }
-]
+{
+  "sanchore": [
+    {
+      "year": "2023-24",
+      "income": 10000,
+      "expenses": 4000,
+      "entries": [
+        { "item": "सेवा कार्य", "amount": 2000 },
+        { "item": "सांस्कृतिक कार्यक्रम", "amount": 2000 }
+      ]
+    }
+  ],
+  "bhinmal": [
+    {
+      "year": "2023-24",
+      "income": 8000,
+      "expenses": 3000,
+      "entries": [
+        { "item": "पुस्तक वितरण", "amount": 1500 },
+        { "item": "स्वास्थ्य शिविर", "amount": 1500 }
+      ]
+    }
+  ]
+}
